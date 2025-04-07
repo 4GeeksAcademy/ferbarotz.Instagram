@@ -1,0 +1,49 @@
+body {
+    background: rgb(221, 221, 221);
+    margin: 0;
+     }
+    
+    
+       
+    .Titulo{
+            display: grid;
+            }   
+    .Titulo {
+        background: red;
+        width: 100%;
+        height: 80px;
+        color: white;
+        text-align-last: center;
+         }
+        
+    .historia {
+        background: white;
+        width: 560px;
+        height: 560px;
+        margin: auto;
+    }
+    .historia-escuderia {
+        display: flex;
+    }
+    .historia-escuderia h2 {
+        width: 80%;
+        height: 30px;
+        text-align-last:left;
+    }
+    .historia-escuderia h3 {
+        width: 10%;
+        margin: 20px;
+        text-align-last:right
+    }
+    
+    .foto img{
+        width: 560px;
+        height: 400px
+        }
+    .dato{
+        COLOR: blue;
+        width: 560px;
+        height: 10px;
+        text-align-last:center
+         }
+            
